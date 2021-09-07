@@ -1,5 +1,5 @@
 # LandingPage_TemaNodejs 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Gadamment/LandingPage_TemaNodejs/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -11,7 +11,7 @@ A página consiste básicamente em preencher um formulário para inscriçao com 
 
 ## Layout da página
 
-https://github.com/Gadamment/LandingPage_TemaNodejs/blob/main/Landing%20Page%20TM%20NodeJs/Layout/Loyt.jpeg?raw=true
+![Web 1](https://github.com/Gadamment/LandingPage_TemaNodejs/blob/main/Landing%20Page%20TM%20NodeJs/Layout/Loyt.jpeg?raw=true)
 
 # Tecnologias utilizadas
 
